@@ -1,0 +1,99 @@
+[ {
+  "whitePlayer" : "",
+  "blackPlayer" : "",
+  "winner" : "",
+  "numberOfMovesWhite" : 9,
+  "numberOfMovesBlack" : 9,
+  "startDateTime" : "2023-05-28T05:49:53.2637707"
+}, {
+  "whitePlayer" : "ASDA",
+  "blackPlayer" : "Az",
+  "winner" : "ASDA",
+  "numberOfMovesWhite" : 7,
+  "numberOfMovesBlack" : 6,
+  "startDateTime" : "2023-05-28T05:53:13.2694676"
+}, {
+  "whitePlayer" : "asad",
+  "blackPlayer" : "aLI",
+  "winner" : "aLI",
+  "numberOfMovesWhite" : 5,
+  "numberOfMovesBlack" : 5,
+  "startDateTime" : "2023-05-28T05:55:04.5305193"
+}, {
+  "whitePlayer" : "asad",
+  "blackPlayer" : "Azan",
+  "winner" : "asad",
+  "numberOfMovesWhite" : 7,
+  "numberOfMovesBlack" : 6,
+  "startDateTime" : "2023-05-28T05:56:21.0234932"
+}, {
+  "whitePlayer" : "asad",
+  "blackPlayer" : "asad",
+  "winner" : "asad",
+  "numberOfMovesWhite" : 15,
+  "numberOfMovesBlack" : 15,
+  "startDateTime" : "2023-05-28T05:59:24.7600052"
+}, {
+  "whitePlayer" : "asad",
+  "blackPlayer" : "asad",
+  "winner" : "asad",
+  "numberOfMovesWhite" : 8,
+  "numberOfMovesBlack" : 7,
+  "startDateTime" : "2023-05-28T06:03:18.9046564"
+}, {
+  "whitePlayer" : "ali",
+  "blackPlayer" : "asad",
+  "winner" : "ali",
+  "numberOfMovesWhite" : 8,
+  "numberOfMovesBlack" : 7,
+  "startDateTime" : "2023-05-28T06:05:53.2494325"
+}, {
+  "whitePlayer" : "asad",
+  "blackPlayer" : "ali",
+  "winner" : "asad",
+  "numberOfMovesWhite" : 8,
+  "numberOfMovesBlack" : 7,
+  "startDateTime" : "2023-05-28T06:06:53.8226686"
+}, {
+  "whitePlayer" : "asad",
+  "blackPlayer" : "ali",
+  "winner" : "asad",
+  "numberOfMovesWhite" : 16,
+  "numberOfMovesBlack" : 15,
+  "startDateTime" : "2023-05-28T06:08:39.044949"
+}, {
+  "whitePlayer" : "hassan",
+  "blackPlayer" : "azan",
+  "winner" : "hassan",
+  "numberOfMovesWhite" : 10,
+  "numberOfMovesBlack" : 9,
+  "startDateTime" : "2023-05-28T06:10:40.5575558"
+}, {
+  "whitePlayer" : "azan",
+  "blackPlayer" : "hassan",
+  "winner" : "azan",
+  "numberOfMovesWhite" : 22,
+  "numberOfMovesBlack" : 21,
+  "startDateTime" : "2023-05-28T06:24:59.0721896"
+}, {
+  "whitePlayer" : "hassan",
+  "blackPlayer" : "azan",
+  "winner" : "hassan",
+  "numberOfMovesWhite" : 20,
+  "numberOfMovesBlack" : 19,
+  "startDateTime" : "2023-05-28T06:27:09.5679689"
+}, {
+  "whitePlayer" : "hassan",
+  "blackPlayer" : "azan",
+  "winner" : "azan",
+  "numberOfMovesWhite" : 24,
+  "numberOfMovesBlack" : 24,
+  "startDateTime" : "2023-05-28T06:29:17.379052"
+}, {
+  "whitePlayer" : "hassan",
+  "blackPlayer" : "azan",
+  "winner" : "azan",
+  "numberOfMovesWhite" : 7,
+  "numberOfMovesBlack" : 7,
+  "startDateTime" : "2023-05-28T07:04:14.6127186"
+} ]

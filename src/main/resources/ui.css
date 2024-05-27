@@ -1,0 +1,20 @@
+.square.light {
+    -fx-border-style: solid;
+    -fx-background-color: #9fc5e8;
+}
+.square.dark{
+       -fx-border-style: solid;
+    -fx-background-color: #1664aa;
+}
+
+.selected {
+    -fx-background-color: silver;
+}
+
+.selectable {
+    -fx-border-width: 5;
+}
+
+.square.light:hover, .square.dark:hover{
+    -fx-background-color: #4B9CD3;
+}
