@@ -1,4 +1,4 @@
-#  Chess Knight game
+#  The Last Knight Standing
 
 The following game is played by two players.
 
